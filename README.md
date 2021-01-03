@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 2020년도 목표
+
+- [v] 1월 28일부터 매일 1일 1커밋 진행하기
+
+
+
 <!--
 **sannimdev/sannimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
