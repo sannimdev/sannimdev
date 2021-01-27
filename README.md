@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## 2020년도 목표 달성!
-  - [x] 1월 28일부터 매일 1일 1커밋 달성하기 (성공)
-  ![image](https://user-images.githubusercontent.com/22428471/103480300-e39e9500-4e16-11eb-8fd2-81eb270dec76.png)
+  - [x] 2020.1.28. ~ 2021.1.27.까지 1주년 돌파 (🎉성공)
+  ![image](https://user-images.githubusercontent.com/22428471/105988622-45cf7a80-60e3-11eb-93a3-4d7b4a8f9c5c.png)
 
 
 
