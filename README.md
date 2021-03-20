@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Sannimdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannimdev&show_icons=true&theme=react)
+
 ## 2020년도 목표 달성!
   - [x] 2020.1.28. ~ 2021.1.27.까지 1주년 돌파 (🎉성공)
   ![image](https://user-images.githubusercontent.com/22428471/107853075-54de5880-6e57-11eb-9477-5c90aa661ea4.png)
