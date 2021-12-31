@@ -2,8 +2,9 @@
 
 ![Sannimdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannimdev&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=sannimdev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannimdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=sannimdev)
 
 ## 1일 1커밋 잔디정원사되기
   - [x] 2020.1.28. ~ 2021.1.27.까지 1일 1커밋 🎉성공 (1년차)
