@@ -8,9 +8,9 @@
 
 ## 1일 1커밋 잔디정원사되기
   - [x] 2020.1.28. ~ 2021.1.27.까지 1일 1커밋 🎉성공 (1년차)
-      ![image](https://user-images.githubusercontent.com/22428471/107853075-54de5880-6e57-11eb-9477-5c90aa661ea4.png)
+      ![2020 github](https://user-images.githubusercontent.com/22428471/107853075-54de5880-6e57-11eb-9477-5c90aa661ea4.png)
   - [x] 2021.1.1. ~ 2021.12.31.까지 1일 1커밋 🎉성공 (2년차)
-      ![image](https://user-images.githubusercontent.com/22428471/147820302-429f2a69-a248-4ea7-93eb-13987037fd1e.png)
+      ![2021 github](https://user-images.githubusercontent.com/22428471/149658453-ef1c3117-025a-4371-b4fb-ea4f80349c72.png)
 
 
 <!--
